@@ -1,0 +1,4 @@
+# Python_ShellcodeLoader
+基于Python的shellcode加载器
+
+首先使用Python_ShellcodeMaker生成shellcode 然后使用Python_ShellcodeLoader加载shellcode
