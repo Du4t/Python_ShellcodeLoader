@@ -18,7 +18,6 @@ $ python ShellcodeLoader.py
 
 非常欢迎你的加入！[提一个 Issue](https://github.com/Du4t/Python_ShellcodeLoader/issues/new) 或者提交一个 Pull Request。
 
-标准 Readme 遵循 [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) 行为规范。
 
 ## 使用许可
 
